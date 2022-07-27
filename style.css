@@ -1,0 +1,105 @@
+.navbar {
+    text-transform: uppercase;
+}
+
+.bgimg {
+    background-image: url('body1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+}
+
+.headerset {
+    padding-top: 350px;
+    box-sizing: border-box;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #3a1ce7;
+
+}
+
+.headerset h2 {
+    font-size: 32px;
+}
+
+.headerset h1 {
+    font-size: 52px;
+    font-size: 12x;
+    font-weight: bold;
+}
+
+.ourservices { 
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+
+.ourservices h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.rowsetting {
+    margin: 80px 0px !important;
+
+}
+
+.imgsetting {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.fa-shopping-cart {
+    margin-top: 23px;
+}
+
+.fa-desktop {
+    margin-top: 25px;
+}
+
+.fa-lock {
+    margin-top: 25px;
+}
+
+.rowsetting h2 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.rowsetting P {
+    padding: 10px;
+    color: #6c757d !important;
+}
+
+.portfolio {
+    height: 1100px;
+    width: 100%;
+    padding: 50px 0px 50px;
+}
+
+.portfolio h1 {
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.ourteam {
+    padding: 200px 0px 60px;
+    height: 100px;
+    width: 100%;
+}
+
+
+.ourteam h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.teamsetting {
+    margin-top: 70px;
+}
+.footer{
+    height: 50px;
+}
+.footer h6{
+    line-height: 50px;
+}
